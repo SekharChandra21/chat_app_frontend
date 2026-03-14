@@ -36,8 +36,16 @@ The frontend communicates with the backend APIs and WebSocket server.
 
 Clone the repository:
 
+```
+cd file_name
+```
 
 Install dependencies:
+
+```
+npm install
+npm run dev
+```
 
 ## Application runs on:
 
