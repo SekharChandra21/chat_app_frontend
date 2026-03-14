@@ -1,12 +1,45 @@
-# React + Vite
+# Chat Application – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is the frontend of a real-time chat application built using React.  
+It allows users to sign up, log in, view online users, and send messages in real time.
 
-Currently, two official plugins are available:
+The frontend communicates with the backend APIs and WebSocket server.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Zustand (State Management)
+- Axios
+- Socket.IO Client
+- React Router
+- React Hot Toast
+- Tailwind CSS
+
+---
+
+## Features
+
+- User Authentication (Signup / Login / Logout)
+- JWT based authentication
+- Real-time messaging
+- Online users list
+- Profile update
+- Image upload support
+- Responsive UI
+
+---
+ 
+---
+
+## Installation
+
+Clone the repository:
+
+
+Install dependencies:
+
+##Application runs on:
+
