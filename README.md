@@ -39,10 +39,10 @@ Clone the repository:
 
 Install dependencies:
 
-##Application runs on:
+## Application runs on:
 
 ```
-https://github.com/SekharChandra21/chat_app_backend
+http://localhost:5173
 ```
 
 ## API Endpoints Used
